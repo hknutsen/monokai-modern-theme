@@ -1,4 +1,4 @@
-name: release-please
+name: CI
 
 on:
   push:
@@ -6,7 +6,8 @@ on:
       - main
 
 jobs:
-  release-please:
+  release:
+    name: Release
     runs-on: ubuntu-latest
     steps:
       - name: Release Please
@@ -20,8 +21,9 @@ jobs:
       version: ${{ steps.release-please.outputs.version }}
 
   publish:
-    needs: release-please
-    if: ${{ needs.release-please.outputs.release-created }}
+    name: Publish
+    needs: release
+    if: ${{ needs.release.outputs.release-created }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -38,5 +40,5 @@ jobs:
       - name: Publish extension
         env:
           VSCE_PAT: ${{ secrets.VSCE_PAT }}
-          VERSION: ${{ needs.release-please.outputs.version }}
+          VERSION: ${{ needs.release.outputs.version }}
         run: npx vsce publish "$VERSION"
