@@ -1257,6 +1257,22 @@
       }
     },
     {
+      "name": "Color HCL built-in function calls",
+      "scope": "support.function.builtin.hcl",
+      "settings": {
+        "foreground": "#A6E22E",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Color HCL namespaced function calls",
+      "scope": "support.function.namespaced.hcl",
+      "settings": {
+        "foreground": "#A6E22E",
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "Color Terraform block types",
       "scope": "entity.name.type.terraform",
       "settings": {
