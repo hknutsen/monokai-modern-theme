@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Required to update changelog file
+      issues: write # Required to create labels
       pull-requests: write # Required to create release PRs
     steps:
       - name: Release Please
