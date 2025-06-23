@@ -9,6 +9,34 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: googleapis/release-please-action@v4
+      - name: Release Please
+        id: release-please
+        uses: googleapis/release-please-action@v4
         with:
           release-type: node
+
+    outputs:
+      release-created: ${{ steps.release-please.outputs.release-created }}
+      version: ${{ steps.release-please.outputs.version }}
+
+  publish:
+    needs: release-please
+    if: ${{ needs.release-please.outputs.release-created }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Publish extension
+        env:
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+          VERSION: ${{ needs.release-please.outputs.version }}
+        run: npx vsce publish "$VERSION"
