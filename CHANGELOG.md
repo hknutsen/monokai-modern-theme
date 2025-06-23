@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.1.0...v0.2.0) (2025-06-23)
+
+
+### Features
+
+* add colored border to active activity bar item ([5b3e3d7](https://github.com/hknutsen/monokai-modern-theme/commit/5b3e3d7ba41aa131ca684aa080820a1f9ad54d47))
+* add colored border to active panel title ([d2a34f3](https://github.com/hknutsen/monokai-modern-theme/commit/d2a34f379cbc0ffd33907e8229784e1284a1078d))
+* add dark background to terminal ([fe8629e](https://github.com/hknutsen/monokai-modern-theme/commit/fe8629e5c3f701ab8ccc1c70c1abf915d89200a6))
+* color HCL function calls ([49d8052](https://github.com/hknutsen/monokai-modern-theme/commit/49d805244c1cadb47bef1c3b11a04f270fcf556e))
+
 ## [0.1.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.0.2...v0.1.0) (2025-06-23)
 
 
