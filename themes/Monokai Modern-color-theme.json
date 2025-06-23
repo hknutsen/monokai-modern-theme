@@ -3,6 +3,7 @@
   "name": "Monokai Modern",
   "type": "dark",
   "colors": {
+    "activityBar.activeBorder": "#ac6218",
     "activityBar.background": "#1e1f1c",
     "activityBar.border": "#34352f",
     "activityBar.foreground": "#f8f8f2",
@@ -109,7 +110,6 @@
     "titleBar.border": "#34352f",
     "widget.shadow": "#00000098",
     //"actionBar.toggledBackground": "#99947c66",
-    //"activityBar.activeBorder": "#f8f8f2",
     //"activityBar.dropBorder": "#f8f8f2",
     //"activityBar.inactiveForeground": "#f8f8f266",
     //"activityBarBadge.background": "#007acc",
