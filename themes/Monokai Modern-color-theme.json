@@ -1232,91 +1232,51 @@
         "foreground": "#FD971F"
       }
     },
-
-    // Improve syntax highlighting for HCL and Terraform files
     {
-      "scope": [
-        // Block types
-        "entity.name.type.terraform",
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
+      "name": "Color HCL blocks",
+      "scope": "meta.block.hcl",
+      "settings": {
+        "foreground": "#F8F8F2",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Color HCL block types",
+      "scope": "entity.name.type.hcl",
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
       }
     },
     {
-      "scope": [
-        // Block labels
-        "variable.other.enummember.hcl",
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
+      "name": "Color HCL block labels",
+      "scope": "variable.other.enummember.hcl",
       "settings": {
         "foreground": "#AE81FF",
         "fontStyle": ""
       }
     },
     {
-      "scope": [
-        // Nested block types
-        "entity.name.type.hcl",
-        "meta.block.hcl",
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
+      "name": "Color Terraform block types",
+      "scope": "entity.name.type.terraform",
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
       }
     },
     {
-      "scope": [
-        // Built-in functions
-        "support.function.builtin.terraform",
-        "meta.function-call.hcl",
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
+      "name": "Color Terraform built-in function calls",
+      "scope": "support.function.builtin.terraform",
       "settings": {
         "foreground": "#A6E22E",
         "fontStyle": ""
       }
     },
     {
-      "scope": [
-        // Provider functions
-        "support.function.provider.terraform",
-        "meta.function-call.hcl",
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
+      "name": "Color Terraform provider function calls",
+      "scope": "support.function.provider.terraform",
       "settings": {
         "foreground": "#A6E22E",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        // Block references
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
-      "settings": {
-        "foreground": "#F8F8F2",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        // Separators (for example, commas used to separate elements in a list)
-        "punctuation.separator.hcl",
-        "meta.block.hcl",
-        "source.hcl.terraform"
-      ],
-      "settings": {
-        "foreground": "#F8F8F2",
         "fontStyle": ""
       }
     }
