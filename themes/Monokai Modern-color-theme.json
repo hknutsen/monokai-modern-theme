@@ -973,6 +973,7 @@
       }
     },
     {
+      "name": "Color keywords",
       "scope": "keyword",
       "settings": {
         "foreground": "#F92672"
