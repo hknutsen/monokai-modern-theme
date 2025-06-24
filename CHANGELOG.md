@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.2.0...v0.2.1) (2025-06-24)
+
+
+### Bug Fixes
+
+* incorrect coloring for types and classes ([743ce80](https://github.com/hknutsen/monokai-modern-theme/commit/743ce809caa7ea67fb83d2f00382791e453bdd89))
+* visible border between unfocused editor group and tabs ([5cda454](https://github.com/hknutsen/monokai-modern-theme/commit/5cda4541ea525573e5c7c7fd4648846dc33a22ba))
+
 ## [0.2.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.1.0...v0.2.0) (2025-06-23)
 
 
