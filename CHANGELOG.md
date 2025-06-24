@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.2.1...v0.2.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* incorrectly colored classes ([bd46c7a](https://github.com/hknutsen/monokai-modern-theme/commit/bd46c7af705d1a93fd75c15780556b637ff34249))
+* incorrectly colored inherited classes ([f27b7ed](https://github.com/hknutsen/monokai-modern-theme/commit/f27b7ed32f21060e37fc2b06428f10d851881ab4))
+
 ## [0.2.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.2.0...v0.2.1) (2025-06-24)
 
 
