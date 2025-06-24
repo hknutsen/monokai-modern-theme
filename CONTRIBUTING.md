@@ -11,9 +11,9 @@ The editor should use a dark background color (`#272822`) and the following colo
 | `#F92672` (Pink) | Keywords |
 | `#E6DB74` (Yellow) | Strings |
 | `#66D9EF` (Cyan) | Types |
-| `#A6E22E` (Green) | Functions |
 | `#AE81FF` (Purple) | Constants |
-| `#FD971F` (Orange) | |
+| `#A6E22E` (Green) | Functions |
+| `#FD971F` (Orange) | Function parameters and language-specific variables |
 | `#88846F` | Comments |
 
 ### Workbench
