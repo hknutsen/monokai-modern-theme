@@ -11,7 +11,7 @@ The editor should use a dark background color (`#272822`) and the following colo
 | `#F92672` (Pink) | Keywords |
 | `#E6DB74` (Yellow) | Strings |
 | `#66D9EF` (Cyan) | Types |
-| `#A6E22E` (Green) | Classes and functions |
+| `#A6E22E` (Green) | Functions |
 | `#AE81FF` (Purple) | |
 | `#FD971F` (Orange) | |
 | `#88846F` | Comments |
