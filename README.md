@@ -6,6 +6,10 @@ Monokai Modern theme for Visual Studio Code:
 - Workbench inspired by the built-in Dark Modern theme
 - Improved syntax highlighting for modern languages (HCL).
 
+## Contributing
+
+See [Contributing guidelines](CONTRIBUTING.md).
+
 ## License
 
 This project is licensed under the terms of the [MIT license](LICENSE).
