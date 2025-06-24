@@ -993,19 +993,11 @@
       }
     },
     {
-      "name": "Color type names",
-      "scope": "entity.name.type, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class",
+      "name": "Color types and classes",
+      "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class",
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Color class names",
-      "scope": "entity.name.class",
-      "settings": {
-        "foreground": "#A6E22E",
-        "fontStyle": "underline"
       }
     },
     {
