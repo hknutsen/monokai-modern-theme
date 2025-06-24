@@ -994,7 +994,7 @@
     },
     {
       "name": "Color type names",
-      "scope": "entity.name.type, entity.name.namespace, entity.name.scope-resolution",
+      "scope": "entity.name.type, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class",
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
@@ -1009,10 +1009,7 @@
       }
     },
     {
-      "scope": [
-        "entity.other.inherited-class",
-        "punctuation.separator.namespace.ruby"
-      ],
+      "scope": "punctuation.separator.namespace.ruby",
       "settings": {
         "foreground": "#A6E22E",
         "fontStyle": "italic underline"
