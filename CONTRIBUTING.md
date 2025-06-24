@@ -2,11 +2,26 @@
 
 ## Color palette
 
+### Editor
+
+The editor should use a dark background color (`#272822`) and the following colors for syntax highlighting:
+
 | Color | Scope |
 | - | - |
-| `#F92672` Pink | Keywords |
-| `#E6DB74` Yellow | Strings |
-| `#66D9EF` Cyan | Types |
-| `#A6E22E` Green | Classes and functions |
-| `#AE81FF` Purple | |
-| `#FD971F` Orange | |
+| `#F92672` (Pink) | Keywords |
+| `#E6DB74` (Yellow) | Strings |
+| `#66D9EF` (Cyan) | Types |
+| `#A6E22E` (Green) | Classes and functions |
+| `#AE81FF` (Purple) | |
+| `#FD971F` (Orange) | |
+| `#88846F` | Comments |
+
+### Workbench
+
+The workbench should use the following colors:
+
+| Color | Scope |
+| - | - |
+| `#1E1F1C` | Backgrounds |
+| `#34352F` | Borders |
+| `#AC6218` (Orange) | Highlights |
