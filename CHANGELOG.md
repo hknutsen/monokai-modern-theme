@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.2.2...v0.3.0) (2025-06-24)
+
+
+### Features
+
+* enable semantic highlighting ([3c9f42f](https://github.com/hknutsen/monokai-modern-theme/commit/3c9f42f0da9094d624558284e27fdbd09c1b3254))
+
 ## [0.2.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.2.1...v0.2.2) (2025-06-24)
 
 
