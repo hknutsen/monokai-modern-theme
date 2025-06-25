@@ -915,15 +915,18 @@
     },
     {
       "name": "Color types (e.g. class definitions, function definitions)",
-      "scope": [
-        "entity",
-        "storage.type",
-        "support.type",
-        "support.class"
-      ],
+      "scope": ["entity", "storage.type", "support.type", "support.class"],
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Color variables",
+      "scope": ["variable", "entity.name.variable"],
+      "settings": {
+        "foreground": "#F8F8F2",
+        "fontStyle": ""
       }
     },
     {
@@ -991,13 +994,6 @@
       "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#F8F8F2"
-      }
-    },
-    {
-      "scope": "variable",
-      "settings": {
-        "foreground": "#F8F8F2",
-        "fontStyle": ""
       }
     },
     {
