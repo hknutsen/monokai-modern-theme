@@ -111,7 +111,7 @@
     "terminal.background": "#1e1f1c",
     "titleBar.activeBackground": "#1e1f1c",
     "titleBar.border": "#34352f",
-    "widget.shadow": "#00000098",
+    "widget.shadow": "#00000098"
     //"actionBar.toggledBackground": "#99947c66",
     //"activityBar.dropBorder": "#f8f8f2",
     //"activityBar.inactiveForeground": "#f8f8f266",
@@ -940,24 +940,6 @@
       }
     },
     {
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#AE81FF"
-      }
-    },
-    {
-      "scope": "constant.language",
-      "settings": {
-        "foreground": "#AE81FF"
-      }
-    },
-    {
-      "scope": "constant.character, constant.other",
-      "settings": {
-        "foreground": "#AE81FF"
-      }
-    },
-    {
       "scope": "variable",
       "settings": {
         "foreground": "#F8F8F2",
@@ -965,11 +947,14 @@
       }
     },
     {
-      "name": "Color enumerated type members",
-      "scope": "variable.other.enummember",
+      "name": "Color constants",
+      "scope": [
+        "constant",
+        "variable.other.constant",
+        "variable.other.enummember"
+      ],
       "settings": {
-        "foreground": "#AE81FF",
-        "fontStyle": ""
+        "foreground": "#AE81FF"
       }
     },
     {
@@ -1108,12 +1093,6 @@
       }
     },
     {
-      "scope": "constant.numeric.line-number.find-in-files - match",
-      "settings": {
-        "foreground": "#AE81FFA0"
-      }
-    },
-    {
       "scope": "entity.name.filename.find-in-files",
       "settings": {
         "foreground": "#E6DB74"
@@ -1174,12 +1153,6 @@
       "scope": "markup.bold.markdown",
       "settings": {
         "fontStyle": "bold"
-      }
-    },
-    {
-      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
-      "settings": {
-        "foreground": "#AE81FF"
       }
     },
     {
