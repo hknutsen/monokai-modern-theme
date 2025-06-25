@@ -915,7 +915,13 @@
     },
     {
       "name": "Color types",
-      "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class",
+      "scope": [
+        "entity.name.type",
+        "entity.name.class",
+        "entity.name.namespace",
+        "entity.name.scope-resolution",
+        "entity.other.inherited-class"
+      ],
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
