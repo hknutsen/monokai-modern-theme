@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.3.1...v0.3.2) (2025-06-25)
+
+
+### Bug Fixes
+
+* some variables incorrectly colored ([e9e1199](https://github.com/hknutsen/monokai-modern-theme/commit/e9e11994a4b2b66a6cfa7d13a744e921671cbd85))
+
 ## [0.3.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.3.0...v0.3.1) (2025-06-25)
 
 
