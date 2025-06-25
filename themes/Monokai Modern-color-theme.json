@@ -900,14 +900,59 @@
   },
   "tokenColors": [
     {
+      "name": "Color keywords",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#F92672"
+      }
+    },
+    {
+      "name": "Color strings",
+      "scope": "string",
+      "settings": {
+        "foreground": "#E6DB74"
+      }
+    },
+    {
+      "name": "Color types",
+      "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class",
+      "settings": {
+        "foreground": "#66D9EF",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Color constants",
       "scope": [
-        "meta.embedded",
-        "source.groovy.embedded",
-        "string meta.image.inline.markdown",
-        "variable.legacy.builtin.python"
+        "constant",
+        "variable.other.constant",
+        "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#AE81FF"
+      }
+    },
+    {
+      "name": "Color functions",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#A6E22E",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Color parameters",
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#FD971F",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Color language-specific variables (e.g. `this` in JavaScript, `self` in Python)",
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "#FD971F"
       }
     },
     {
@@ -918,10 +963,14 @@
       }
     },
     {
-      "name": "Color strings",
-      "scope": "string",
+      "scope": [
+        "meta.embedded",
+        "source.groovy.embedded",
+        "string meta.image.inline.markdown",
+        "variable.legacy.builtin.python"
+      ],
       "settings": {
-        "foreground": "#E6DB74"
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -947,24 +996,6 @@
       }
     },
     {
-      "name": "Color constants",
-      "scope": [
-        "constant",
-        "variable.other.constant",
-        "variable.other.enummember"
-      ],
-      "settings": {
-        "foreground": "#AE81FF"
-      }
-    },
-    {
-      "name": "Color keywords",
-      "scope": "keyword",
-      "settings": {
-        "foreground": "#F92672"
-      }
-    },
-    {
       "scope": "storage",
       "settings": {
         "foreground": "#F92672",
@@ -973,14 +1004,6 @@
     },
     {
       "scope": "storage.type",
-      "settings": {
-        "foreground": "#66D9EF",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Color types and classes",
-      "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution, entity.other.inherited-class",
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
@@ -1012,29 +1035,6 @@
       "settings": {
         "foreground": "#A6E22E",
         "fontStyle": ""
-      }
-    },
-    {
-      "name": "Color functions",
-      "scope": "support.function",
-      "settings": {
-        "foreground": "#A6E22E",
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "Color parameters",
-      "scope": "variable.parameter",
-      "settings": {
-        "foreground": "#FD971F",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Color language-specific variables (e.g. `this` in JavaScript, `self` in Python)",
-      "scope": "variable.language",
-      "settings": {
-        "foreground": "#FD971F"
       }
     },
     {
