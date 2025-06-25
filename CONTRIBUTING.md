@@ -13,7 +13,7 @@ The editor should use a dark background color (`#272822`) and the following colo
 | `#66D9EF` (Cyan) | Types |
 | `#AE81FF` (Purple) | Constants |
 | `#A6E22E` (Green) | Functions |
-| `#FD971F` (Orange) | Function parameters and language-specific variables |
+| `#FD971F` (Orange) | Parameters and language-specific variables (e.g. `this` in JavaScript, `self` in Python) |
 | `#88846F` | Comments |
 
 ### Workbench

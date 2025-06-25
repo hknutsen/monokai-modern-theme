@@ -1001,13 +1001,6 @@
       }
     },
     {
-      "scope": "variable.parameter",
-      "settings": {
-        "foreground": "#FD971F",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "scope": "entity.name.tag",
       "settings": {
         "foreground": "#F92672",
@@ -1027,6 +1020,21 @@
       "settings": {
         "foreground": "#A6E22E",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Color parameters",
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#FD971F",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Color language-specific variables (e.g. `this` in JavaScript, `self` in Python)",
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "#FD971F"
       }
     },
     {
@@ -1207,12 +1215,6 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#B267E6"
-      }
-    },
-    {
-      "scope": "variable.language",
-      "settings": {
-        "foreground": "#FD971F"
       }
     }
   ],
