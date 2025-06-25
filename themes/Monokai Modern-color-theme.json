@@ -914,13 +914,12 @@
       }
     },
     {
-      "name": "Color types",
+      "name": "Color types (e.g. class definitions, function definitions)",
       "scope": [
-        "entity.name.type",
-        "entity.name.class",
-        "entity.name.namespace",
-        "entity.name.scope-resolution",
-        "entity.other.inherited-class"
+        "entity",
+        "storage.type",
+        "support.type",
+        "support.class"
       ],
       "settings": {
         "foreground": "#66D9EF",
@@ -1009,13 +1008,6 @@
       }
     },
     {
-      "scope": "storage.type",
-      "settings": {
-        "foreground": "#66D9EF",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "scope": "punctuation.separator.namespace.ruby",
       "settings": {
         "foreground": "#A6E22E",
@@ -1048,13 +1040,6 @@
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": ""
-      }
-    },
-    {
-      "scope": "support.type, support.class",
-      "settings": {
-        "foreground": "#66D9EF",
-        "fontStyle": "italic"
       }
     },
     {
