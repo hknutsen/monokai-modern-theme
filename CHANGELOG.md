@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.3.0...v0.3.1) (2025-06-25)
+
+
+### Bug Fixes
+
+* use purple color only for constants ([d8d2647](https://github.com/hknutsen/monokai-modern-theme/commit/d8d2647127e4ce364c89951cc06641dc285f78fc))
+
 ## [0.3.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.2.2...v0.3.0) (2025-06-24)
 
 
