@@ -25,3 +25,7 @@ The workbench should use the following colors:
 | `#1E1F1C` | Backgrounds |
 | `#34352F` | Borders |
 | `#AC6218` (Orange) | Highlights |
+
+## References
+
+- [Language grammars - TextMate manual](https://macromates.com/manual/en/language_grammars)
