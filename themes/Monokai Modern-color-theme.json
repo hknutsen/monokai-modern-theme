@@ -995,6 +995,7 @@
       }
     },
     {
+      "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
         "foreground": "#F92672",
