@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.3.2...v0.4.0) (2025-06-26)
+
+
+### Features
+
+* improve rules for reserved language variables ([44a80a2](https://github.com/hknutsen/monokai-modern-theme/commit/44a80a2f2850c4f88bc798e4bc9d862e7962cb63))
+* improve rules for variables and constants ([cef32a6](https://github.com/hknutsen/monokai-modern-theme/commit/cef32a6508071a1129a3c5bcf628ec28a6437dd7))
+
 ## [0.3.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.3.1...v0.3.2) (2025-06-25)
 
 
