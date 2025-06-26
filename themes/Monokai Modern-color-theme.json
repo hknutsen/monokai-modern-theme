@@ -900,48 +900,80 @@
   },
   "tokenColors": [
     {
-      "name": "Color keywords",
+      "name": "Keywords",
       "scope": "keyword",
       "settings": {
         "foreground": "#F92672"
       }
     },
     {
-      "name": "Color strings",
+      "name": "Strings",
       "scope": "string",
       "settings": {
         "foreground": "#E6DB74"
       }
     },
     {
-      "name": "Color types (e.g. class definitions, function definitions)",
-      "scope": ["entity", "storage.type", "support.type", "support.class"],
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "foreground": "#F92672"
+      }
+    },
+    {
+      "name": "Storage modifiers (static, final, abstract, etc.)",
+      "scope": "storage.modifier",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Storage types (class, function, int, var, etc.)",
+      "scope": "storage.type",
       "settings": {
         "foreground": "#66D9EF",
         "fontStyle": "italic"
       }
     },
     {
-      "name": "Color constants",
-      "scope": [
-        "constant",
-        "variable.other.constant",
-        "variable.other.enummember"
-      ],
+      "name": "Type declarations and references",
+      "scope": ["entity.name.type", "support.type", "support.class"],
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#66D9EF",
+        "fontStyle": ""
       }
     },
     {
-      "name": "Color functions",
-      "scope": ["support.function", "entity.name.function"],
+      "name": "Functions",
+      "scope": ["entity.name.function", "support.function"],
       "settings": {
         "foreground": "#A6E22E",
         "fontStyle": ""
       }
     },
     {
-      "name": "Color parameters",
+      "name": "Variables",
+      "scope": ["variable", "entity.name.variable", "support.variable"],
+      "settings": {
+        "foreground": "#F8F8F2",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Constants",
+      "scope": [
+        "constant",
+        "variable.other.constant",
+        "variable.other.enummember",
+        "entity.name.constant",
+        "support.constant"
+      ],
+      "settings": {
+        "foreground": "#AE81FF"
+      }
+    },
+    {
+      "name": "Parameters",
       "scope": "variable.parameter",
       "settings": {
         "foreground": "#FD971F",
@@ -949,32 +981,17 @@
       }
     },
     {
-      "name": "Color language-specific variables (e.g. `this` in JavaScript, `self` in Python)",
+      "name": "Language-specific variables (e.g. `this` in JavaScript, `self` in Python)",
       "scope": "variable.language",
       "settings": {
         "foreground": "#FD971F"
       }
     },
     {
-      "name": "Color variables",
-      "scope": ["variable", "entity.name.variable"],
-      "settings": {
-        "foreground": "#F8F8F2",
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "Color comments",
+      "name": "Comments",
       "scope": "comment",
       "settings": {
         "foreground": "#88846F"
-      }
-    },
-    {
-      "scope": "storage",
-      "settings": {
-        "foreground": "#F92672",
-        "fontStyle": ""
       }
     },
     {
