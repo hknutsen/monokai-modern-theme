@@ -981,7 +981,7 @@
       }
     },
     {
-      "name": "Language-specific variables (e.g. `this` in JavaScript, `self` in Python)",
+      "name": "Reserved language variables (this, super, self, etc.)",
       "scope": "variable.language",
       "settings": {
         "foreground": "#FD971F"
