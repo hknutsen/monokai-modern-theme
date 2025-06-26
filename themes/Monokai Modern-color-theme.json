@@ -922,14 +922,6 @@
       }
     },
     {
-      "name": "Color variables",
-      "scope": ["variable", "entity.name.variable"],
-      "settings": {
-        "foreground": "#F8F8F2",
-        "fontStyle": ""
-      }
-    },
-    {
       "name": "Color constants",
       "scope": [
         "constant",
@@ -961,6 +953,14 @@
       "scope": "variable.language",
       "settings": {
         "foreground": "#FD971F"
+      }
+    },
+    {
+      "name": "Color variables",
+      "scope": ["variable", "entity.name.variable"],
+      "settings": {
+        "foreground": "#F8F8F2",
+        "fontStyle": ""
       }
     },
     {
