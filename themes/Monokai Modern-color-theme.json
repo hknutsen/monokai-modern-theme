@@ -960,13 +960,13 @@
       }
     },
     {
-      "name": "Constants",
+      "name": "Constants and enums",
       "scope": [
         "constant",
-        "variable.other.constant",
-        "variable.other.enummember",
         "entity.name.constant",
-        "support.constant"
+        "support.constant",
+        "variable.other.constant",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#AE81FF"
