@@ -1003,8 +1003,10 @@
       }
     },
     {
+      "name": "Markup headings",
       "scope": "markup.heading",
       "settings": {
+        "foreground": "#E6DB74",
         "fontStyle": "bold"
       }
     },
