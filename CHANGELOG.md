@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.4.0...v0.5.0) (2025-06-27)
+
+
+### Features
+
+* color markup headings yellows ([5bab621](https://github.com/hknutsen/monokai-modern-theme/commit/5bab621d136786e27d1f26b84a86613a57751f58))
+* color markup links ([7061d45](https://github.com/hknutsen/monokai-modern-theme/commit/7061d455e4e50e17db4ede01200cda6a55e9762d))
+* color markup list definitions yellow ([c79fd9d](https://github.com/hknutsen/monokai-modern-theme/commit/c79fd9d6a96882ccb0d3847194be1e807680188b))
+
 ## [0.4.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.3.2...v0.4.0) (2025-06-26)
 
 
