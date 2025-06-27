@@ -1011,6 +1011,13 @@
       }
     },
     {
+      "name": "Markup list definitions",
+      "scope": "punctuation.definition.list",
+      "settings": {
+        "foreground": "#E6DB74"
+      }
+    },
+    {
       "scope": "markup.quote",
       "settings": {
         "foreground": "#75715E",
