@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.5.0...v0.5.1) (2025-06-29)
+
+
+### Reverts
+
+* color markup list definitions yellow ([#19](https://github.com/hknutsen/monokai-modern-theme/issues/19)) ([4bdc813](https://github.com/hknutsen/monokai-modern-theme/commit/4bdc813b9f437182370fad9fc1e5602564bd0cac))
+
 ## [0.5.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.4.0...v0.5.0) (2025-06-27)
 
 
