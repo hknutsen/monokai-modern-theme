@@ -16,7 +16,7 @@
       {
         "label": "Monokai Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai Modern-color-theme.json"
+        "path": "./themes/monokai-modern-color-theme.json"
       }
     ]
   },
