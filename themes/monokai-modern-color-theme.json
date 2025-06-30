@@ -58,7 +58,7 @@
     "menu.background": "#1e1f1c",
     "menu.foreground": "#cccccc",
     "minimap.selectionHighlight": "#878b9180",
-    "panel.background": "#1e1f1c",
+    "panel.background": "default",
     "panel.border": "#414339",
     "panelTitle.activeBorder": "#ac6218",
     "panelTitle.activeForeground": "#f8f8f2",
@@ -108,7 +108,7 @@
     "terminal.ansiRed": "#c4265e",
     "terminal.ansiWhite": "#e3e3dd",
     "terminal.ansiYellow": "#b3b42b",
-    "terminal.background": "#1e1f1c",
+    "terminal.background": "default",
     "titleBar.activeBackground": "#1e1f1c",
     "titleBar.border": "#34352f",
     "widget.shadow": "#00000098"
