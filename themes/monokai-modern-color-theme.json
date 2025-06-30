@@ -939,24 +939,21 @@
       "name": "Type declarations and references",
       "scope": ["entity.name.type", "support.type", "support.class"],
       "settings": {
-        "foreground": "#66D9EF",
-        "fontStyle": ""
+        "foreground": "#66D9EF"
       }
     },
     {
       "name": "Functions",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#A6E22E",
-        "fontStyle": ""
+        "foreground": "#A6E22E"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "entity.name.variable", "support.variable"],
       "settings": {
-        "foreground": "#F8F8F2",
-        "fontStyle": ""
+        "foreground": "#F8F8F2"
       }
     },
     {
@@ -998,8 +995,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#F92672",
-        "fontStyle": ""
+        "foreground": "#F92672"
       }
     },
     {
