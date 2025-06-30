@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.5.1...v0.6.0) (2025-06-30)
+
+
+### Features
+
+* terminal uses same background color as editor ([#26](https://github.com/hknutsen/monokai-modern-theme/issues/26)) ([2e7e46f](https://github.com/hknutsen/monokai-modern-theme/commit/2e7e46f04602f57b4e7bbf32f353c9d50170ed24))
+
 ## [0.5.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.5.0...v0.5.1) (2025-06-29)
 
 
