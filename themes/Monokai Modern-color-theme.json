@@ -1025,6 +1025,7 @@
       }
     },
     {
+      "name": "Markup quoted text",
       "scope": "markup.quote",
       "settings": {
         "foreground": "#75715E",
@@ -1032,42 +1033,49 @@
       }
     },
     {
+      "name": "Markup bold text",
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold"
       }
     },
     {
+      "name": "Markup italic text",
       "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
+      "name": "Markup strikethrough text",
       "scope": "markup.strikethrough",
       "settings": {
         "fontStyle": "strikethrough"
       }
     },
     {
+      "name": "Informational messages",
       "scope": "token.info-token",
       "settings": {
         "foreground": "#6796E6"
       }
     },
     {
+      "name": "Warnings",
       "scope": "token.warn-token",
       "settings": {
         "foreground": "#CD9731"
       }
     },
     {
+      "name": "Errors",
       "scope": "token.error-token",
       "settings": {
         "foreground": "#F44747"
       }
     },
     {
+      "name": "Debug information",
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#B267E6"
