@@ -19,7 +19,6 @@ jobs:
         uses: googleapis/release-please-action@v4
         with:
           release-type: node
-
     outputs:
       release-created: ${{ steps.release-please.outputs.release_created }}
       version: ${{ steps.release-please.outputs.version }}
@@ -32,15 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
-
       - name: Install dependencies
         run: npm ci
-
       - name: Publish extension
         env:
           VSCE_PAT: ${{ secrets.VSCE_PAT }}
