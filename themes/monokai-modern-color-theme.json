@@ -85,6 +85,7 @@
     "tab.inactiveForeground": "#ccccc7",
     "tab.lastPinnedBorder": "#414339",
     "tab.unfocusedActiveBorder": "#272822",
+    "tab.unfocusedActiveBorderTop": "#272822",
     "terminal.ansiBlack": "#333333",
     "terminal.ansiBlue": "#6a7ec8",
     "terminal.ansiBrightBlack": "#666666",
