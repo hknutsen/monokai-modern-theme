@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.6.0...v0.6.1) (2025-07-01)
+
+
+### Bug Fixes
+
+* hide border on unfocused active tab ([#30](https://github.com/hknutsen/monokai-modern-theme/issues/30)) ([2f2cdef](https://github.com/hknutsen/monokai-modern-theme/commit/2f2cdefe346a1687ea477f32358cb6b36efc14ac))
+
 ## [0.6.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.5.1...v0.6.0) (2025-06-30)
 
 
