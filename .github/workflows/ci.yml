@@ -23,6 +23,8 @@ jobs:
       release-created: ${{ steps.release-please.outputs.release_created }}
       version: ${{ steps.release-please.outputs.version }}
 
+  # Publish extension to the Visual Studio Marketplace.
+  # Ref: https://code.visualstudio.com/api/working-with-extensions/publishing-extension
   publish:
     name: Publish
     needs: release
