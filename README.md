@@ -3,7 +3,7 @@
 Monokai Modern theme for Visual Studio Code:
 
 - Syntax highlighting based on the built-in Monokai theme.
-- Workbench inspired by the built-in Dark Modern theme.
+- Workbench based on the built-in Dark Modern theme.
 
 Try it out in vscode.dev: <https://vscode.dev/theme/hknutsen.monokai-modern-theme>
 
