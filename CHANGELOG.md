@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.3](https://github.com/hknutsen/monokai-modern-theme/compare/v0.6.2...v0.6.3) (2025-07-10)
+
+
+### Documentation
+
+* update README and contributing guidelines ([#44](https://github.com/hknutsen/monokai-modern-theme/issues/44)) ([5e42862](https://github.com/hknutsen/monokai-modern-theme/commit/5e4286244006c4088fb7c64106335c3fdb9d8680))
+
 ## [0.6.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.6.1...v0.6.2) (2025-07-02)
 
 
