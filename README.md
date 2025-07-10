@@ -1,13 +1,11 @@
 # Monokai Modern Theme
 
-Monokai Modern theme for Visual Studio Code.
+Monokai Modern theme for Visual Studio Code:
+
+- Syntax highlighting based on the built-in Monokai theme.
+- Workbench inspired by the built-in Dark Modern theme.
 
 Try it out in vscode.dev: <https://vscode.dev/theme/hknutsen.monokai-modern-theme>
-
-## Features
-
-- Editor based on the built-in Monokai theme, with improved syntax highlighting for modern languages.
-- Workbench inspired by the built-in Dark Modern theme.
 
 ## License
 
