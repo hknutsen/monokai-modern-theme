@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.7.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.6.3...v0.7.0) (2025-09-01)
+
+
+### Features
+
+* use Monokai Pro color scheme for backgrounds, contrasts and borders ([#50](https://github.com/hknutsen/monokai-modern-theme/issues/50)) ([3ee4bb4](https://github.com/hknutsen/monokai-modern-theme/commit/3ee4bb41917caf9b58aef3e83021d1b76158ab2b))
+* use Monokai Pro color scheme for syntax highlighting ([#47](https://github.com/hknutsen/monokai-modern-theme/issues/47)) ([5d9b210](https://github.com/hknutsen/monokai-modern-theme/commit/5d9b2104ddc719c466452771fa20390d9f01b5b5))
+
 ## [0.6.3](https://github.com/hknutsen/monokai-modern-theme/compare/v0.6.2...v0.6.3) (2025-07-10)
 
 
