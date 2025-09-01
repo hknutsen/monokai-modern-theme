@@ -111,21 +111,21 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FF6188"
       }
     },
     {
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#E6DB74"
+        "foreground": "#FFD866"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FF6188"
       }
     },
     {
@@ -139,7 +139,7 @@
       "name": "Storage types (class, function, int, var, etc.)",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#66D9EF",
+        "foreground": "#78DCE8",
         "fontStyle": "italic"
       }
     },
@@ -147,21 +147,21 @@
       "name": "Type declarations and references",
       "scope": ["entity.name.type", "support.type", "support.class"],
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#78DCE8"
       }
     },
     {
       "name": "Functions",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#A9DC76"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "entity.name.variable", "support.variable"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#FCFCFA"
       }
     },
     {
@@ -174,14 +174,14 @@
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#AB9DF2"
       }
     },
     {
       "name": "Parameters",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#FD971F",
+        "foreground": "#F59762",
         "fontStyle": "italic"
       }
     },
@@ -189,28 +189,28 @@
       "name": "Reserved language variables (this, super, self, etc.)",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#FD971F"
+        "foreground": "#F59762"
       }
     },
     {
       "name": "Comments",
       "scope": "comment",
       "settings": {
-        "foreground": "#88846F"
+        "foreground": "#727072"
       }
     },
     {
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FF6188"
       }
     },
     {
       "name": "Markup headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#E6DB74",
+        "foreground": "#FFD866",
         "fontStyle": "bold"
       }
     },
@@ -218,21 +218,21 @@
       "name": "Markup links",
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#A9DC76"
       }
     },
     {
       "name": "Link strings",
       "scope": "string.other.link",
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#FF6188"
       }
     },
     {
       "name": "Markup quoted text",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#75715E",
+        "foreground": "#727072",
         "fontStyle": "italic"
       }
     },
