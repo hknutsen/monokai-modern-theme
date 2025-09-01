@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.7.0...v0.8.0) (2025-09-01)
+
+
+### Features
+
+* simplify color rules ([#51](https://github.com/hknutsen/monokai-modern-theme/issues/51)) ([2592801](https://github.com/hknutsen/monokai-modern-theme/commit/25928015825428045693df7fe4f61172442d5b76))
+
 ## [0.7.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.6.3...v0.7.0) (2025-09-01)
 
 
