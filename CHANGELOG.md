@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.9.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.8.0...v0.9.0) (2025-09-04)
+
+
+### Features
+
+* add darker terminal background color ([#57](https://github.com/hknutsen/monokai-modern-theme/issues/57)) ([3a0c5f1](https://github.com/hknutsen/monokai-modern-theme/commit/3a0c5f1ee4193a1cba368ee905d181acbb2dac4b))
+* add editor bracket highlight colors ([#54](https://github.com/hknutsen/monokai-modern-theme/issues/54)) ([4179c1a](https://github.com/hknutsen/monokai-modern-theme/commit/4179c1a2a5aced4265746bd9115c813e035feacc))
+* add editor indent guide color ([#53](https://github.com/hknutsen/monokai-modern-theme/issues/53)) ([df7705c](https://github.com/hknutsen/monokai-modern-theme/commit/df7705cc724eb4559c3206536b359c1b65cf9ad9))
+* add editor line highlight background color ([#56](https://github.com/hknutsen/monokai-modern-theme/issues/56)) ([38f332b](https://github.com/hknutsen/monokai-modern-theme/commit/38f332b7cc5d9eefe6fa63787a28cc0be74ef4f6))
+* add menu colors ([#59](https://github.com/hknutsen/monokai-modern-theme/issues/59)) ([85ca0ac](https://github.com/hknutsen/monokai-modern-theme/commit/85ca0ac5adbee758ae9bcc0dba6cd34ca5427bb6))
+* add terminal ANSI colors ([#58](https://github.com/hknutsen/monokai-modern-theme/issues/58)) ([a90f7d2](https://github.com/hknutsen/monokai-modern-theme/commit/a90f7d22c09941943e545a7c04d973a4312af4a5))
+* improve border colors ([#55](https://github.com/hknutsen/monokai-modern-theme/issues/55)) ([a163d8b](https://github.com/hknutsen/monokai-modern-theme/commit/a163d8b927e11ed4bb92d1c11460b15c003ce9b9))
+
 ## [0.8.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.7.0...v0.8.0) (2025-09-01)
 
 
