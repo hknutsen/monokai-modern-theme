@@ -52,8 +52,9 @@
     // "menu.background": "#221f22",
     // "menu.foreground": "#cccccc",
     // "minimap.selectionHighlight": "#878b9180",
+    "panel.background": "#221f22",
     // "panel.border": "#414339",
-    // "panelTitle.activeBorder": "#ac6218",
+    "panelTitle.activeBorder": "#f59762",
     // "panelTitle.activeForeground": "#fcfcfa",
     // "panelTitle.inactiveForeground": "#75715e",
     // "peekView.border": "#75715e",
@@ -102,6 +103,7 @@
     // "terminal.ansiRed": "#c4265e",
     // "terminal.ansiWhite": "#e3e3dd",
     // "terminal.ansiYellow": "#b3b42b",
+    "terminal.background": "#221f22",
     "titleBar.activeBackground": "#221f22",
     "titleBar.border": "#2d2a2e",
     // "widget.shadow": "#00000098"
