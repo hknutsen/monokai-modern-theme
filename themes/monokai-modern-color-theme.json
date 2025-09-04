@@ -17,7 +17,7 @@
     // "dropdown.listBackground": "#221f22",
     "editor.background": "#2d2a2e",
     "editor.foreground": "#fcfcfa",
-    // "editor.lineHighlightBackground": "#3e3d32",
+    "editor.lineHighlightBackground": "#4a484b80",
     // "editor.selectionBackground": "#878b9180",
     // "editor.selectionHighlightBackground": "#575b6180",
     // "editor.wordHighlightBackground": "#4a4a7680",
