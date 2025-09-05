@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.9.0...v0.10.0) (2025-09-05)
+
+
+### Features
+
+* add markup inlines color ([#61](https://github.com/hknutsen/monokai-modern-theme/issues/61)) ([eb53dcc](https://github.com/hknutsen/monokai-modern-theme/commit/eb53dcc81198e5703414d90aaeaace0cbd178ec2))
+
 ## [0.9.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.8.0...v0.9.0) (2025-09-04)
 
 
