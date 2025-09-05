@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.10.0...v0.11.0) (2025-09-05)
+
+
+### Features
+
+* set darker workbench background color ([#63](https://github.com/hknutsen/monokai-modern-theme/issues/63)) ([43043d0](https://github.com/hknutsen/monokai-modern-theme/commit/43043d09818c0f85fd5f64bf5ca2e9bff522fd86))
+
 ## [0.10.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.9.0...v0.10.0) (2025-09-05)
 
 
