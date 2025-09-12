@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.12.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.11.0...v0.12.0) (2025-09-12)
+
+
+### Features
+
+* workbench color palette closer to Dark Modern theme ([#66](https://github.com/hknutsen/monokai-modern-theme/issues/66)) ([f3f5cfb](https://github.com/hknutsen/monokai-modern-theme/commit/f3f5cfb960cca8be2e8ba0fb2b7220c2f19801aa))
+
 ## [0.11.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.10.0...v0.11.0) (2025-09-05)
 
 
