@@ -17,7 +17,7 @@ Syntax highlighting based on the Monokai Pro color scheme:
 | `#fc9867` | Orange | Parameters |
 | `#ffd866` | Yellow | Strings |
 | `#a9dc76` | Green | Functions |
-| `#78dce8` | Blue | Types |
+| `#78dce8` | Cyan | Types |
 | `#ab9df2` | Purple | Constants |
 | `#727072` | Dimmed | Comments |
 | `#221f22` | Dark | Background |
