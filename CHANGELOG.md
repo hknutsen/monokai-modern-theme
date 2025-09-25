@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.13.0...v0.14.0) (2025-09-25)
+
+
+### Features
+
+* update terminal colors based on Monokai Pro scheme ([#70](https://github.com/hknutsen/monokai-modern-theme/issues/70)) ([4538b85](https://github.com/hknutsen/monokai-modern-theme/commit/4538b85a00e701fe4725dd1b0281d03b5ff77f54))
+
 ## [0.13.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.12.0...v0.13.0) (2025-09-25)
 
 
