@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.12.0...v0.13.0) (2025-09-25)
+
+
+### Features
+
+* copy workbench colors from Dark Modern theme ([#68](https://github.com/hknutsen/monokai-modern-theme/issues/68)) ([5cb5993](https://github.com/hknutsen/monokai-modern-theme/commit/5cb59932ba4039d68c078c8acfc08fe7cbf45283))
+
 ## [0.12.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.11.0...v0.12.0) (2025-09-12)
 
 
