@@ -282,7 +282,7 @@
       "name": "Markup links",
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#A9DC76"
+        "foreground": "#FCFCFA"
       }
     },
     {
