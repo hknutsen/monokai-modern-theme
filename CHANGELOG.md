@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.15.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.14.0...v0.15.0) (2025-09-26)
+
+
+### Features
+
+* color markup links white ([0f82290](https://github.com/hknutsen/monokai-modern-theme/commit/0f8229028cf7cebab354543616bd7b9d2909a66c))
+* replace VS Code blue with Monokai orange ([ba6c2ce](https://github.com/hknutsen/monokai-modern-theme/commit/ba6c2ce6314e3b7da58c0aceb86c5429063d9e6c))
+* use Monokai colors for editor gutter backgrounds ([bb1a7b8](https://github.com/hknutsen/monokai-modern-theme/commit/bb1a7b879985bbe708480cec7d7c17d3e9176a3e))
+
 ## [0.14.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.13.0...v0.14.0) (2025-09-25)
 
 
