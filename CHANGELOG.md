@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.15.0...v0.15.1) (2025-09-30)
+
+
+### Bug Fixes
+
+* replace VS Code background color with Monokai Pro background color ([5640d10](https://github.com/hknutsen/monokai-modern-theme/commit/5640d10686d82ef0a8f2fee3bf96af3e91d4cff4))
+
 ## [0.15.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.14.0...v0.15.0) (2025-09-26)
 
 
