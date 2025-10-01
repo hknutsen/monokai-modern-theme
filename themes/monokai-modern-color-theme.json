@@ -329,7 +329,7 @@
     },
     {
       "name": "Markup inlines (inline code, etc.)",
-      "scope": "markup.inline",
+      "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#F59762"
       }
