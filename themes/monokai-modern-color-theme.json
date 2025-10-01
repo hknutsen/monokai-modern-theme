@@ -333,34 +333,6 @@
       "settings": {
         "foreground": "#F59762"
       }
-    },
-    {
-      "name": "Informational messages",
-      "scope": "token.info-token",
-      "settings": {
-        "foreground": "#6796E6"
-      }
-    },
-    {
-      "name": "Warnings",
-      "scope": "token.warn-token",
-      "settings": {
-        "foreground": "#CD9731"
-      }
-    },
-    {
-      "name": "Errors",
-      "scope": "token.error-token",
-      "settings": {
-        "foreground": "#F44747"
-      }
-    },
-    {
-      "name": "Debug information",
-      "scope": "token.debug-token",
-      "settings": {
-        "foreground": "#B267E6"
-      }
     }
   ],
   "semanticHighlighting": true
