@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.15.1...v0.15.2) (2025-10-01)
+
+
+### Bug Fixes
+
+* missing editor bracket highlight colors ([544b042](https://github.com/hknutsen/monokai-modern-theme/commit/544b042621bce3f7cff8d366f85829ec70b03a9c))
+
 ## [0.15.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.15.0...v0.15.1) (2025-09-30)
 
 
