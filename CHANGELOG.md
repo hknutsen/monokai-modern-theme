@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.3](https://github.com/hknutsen/monokai-modern-theme/compare/v0.15.2...v0.15.3) (2025-10-01)
+
+
+### Bug Fixes
+
+* set specialized scope for Markup inlines ([0ca15a4](https://github.com/hknutsen/monokai-modern-theme/commit/0ca15a4d5065504aab3492b2bb3a96314310eb76))
+
 ## [0.15.2](https://github.com/hknutsen/monokai-modern-theme/compare/v0.15.1...v0.15.2) (2025-10-01)
 
 
