@@ -9,7 +9,9 @@
 
 ## Color palette
 
-Syntax highlighting based on the Monokai Pro color scheme:
+This theme has the goal of using a minimal color palette.
+
+Syntax highlighting colors based on the Monokai Pro color scheme:
 
 | Color | Description | Scope |
 | - | - | - |
@@ -21,3 +23,9 @@ Syntax highlighting based on the Monokai Pro color scheme:
 | `#ab9df2` | Purple | Constants |
 | `#727072` | Dimmed | Comments |
 | `#221f22` | Dark | Background |
+| `#fcfcfa` | White | Foreground |
+
+Workbench colors based on the built-in Dark Modern theme:
+
+- `#181818` is used for the workbench background color - this is the background color used in the built-in Dark Modern theme.
+- `#2b2b2b` is used for the workbench border color - this is the border color used in the built-in Dark Modern theme.
