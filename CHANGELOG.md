@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.1](https://github.com/hknutsen/monokai-modern-theme/compare/v0.16.0...v0.16.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* incorrect side bar foreground color ([7f86896](https://github.com/hknutsen/monokai-modern-theme/commit/7f868963b1bfb4a3df24abd71658a7629c1b71dc))
+
 ## [0.16.0](https://github.com/hknutsen/monokai-modern-theme/compare/v0.15.2...v0.16.0) (2025-10-23)
 
 
